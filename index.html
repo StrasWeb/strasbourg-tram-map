@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Carte plus ou moins en temps réel du tramway de Strasbourg</title>
+  <link rel="stylesheet" href="lib/leaflet.css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="lib/leaflet.ie.css">
+  <![endif]-->
+  <link rel="stylesheet" href="lib/leaflet.label.css">
+  <link rel="stylesheet" href="css.css">
+  <script src="lib/leaflet.js"></script>
+  <script src="lib/leaflet.label.js"></script>
+  <script src="lib/reqwest.min.js"></script>
+  <script src="js/trains.js"></script>
+ </head>
+ <body>
+
+  <div id="map"><div style="padding: 1em; color: gray;">Loading...</div></div>
+
+  <div id="header">
+  <h1>Carte <em>plus ou moins</em> en temps réel du tramway de Strasbourg</h1>
+  <small>Données collectées : <span id="update">Aucune pour l'instant</span></small>
+  </div>
+
+<noscript>
+<div style="border: solid 2px #cc0000; padding: 5px; width: 70%; margin: 1em auto;">
+Désolé, cette application nécessite JavaScript.
+</div>
+</noscript>
+  <div id="loading"></div>
+  <div id="info">
+
+<p id="showhide"><a href="" onclick="Info.Hide(); return false;">Masquer &uarr;</a>
+
+<p><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="StrasWeb">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+<div style="margin-bottom: 1em;">
+<h2>Qu'est-ce que c'est ?</h2>
+<p>Il s'agit d'une carte <em>plus ou moins</em> en temps réel du tramway de Strasbourg.</p>
+</div>
+
+<h2>Comment ça fonctionne ?</h2>
+<p>La seule donnée en temps réel fournit par la <a href="http://www.cts-strasbourg.fr/">Compagnie des transports strasbourgeois</a> est le prochain passage d'un tram à chaque station. À partir de cette information, les tramways sont placés de manière approximative sur la carte.</p>
+<p>Cette méthode est très imprécise mais nous avons décidé de publier tout de même cette carte afin de montrer ce qui pourrait être fait avec des données plus précises telles que celles fournies par <a href="http://www.tfl.gov.uk/businessandpartners/syndication/">Transports for London</a>.</p>
+
+<h2>Crédits</h2>
+<p>Cette application a été réalisée par <a href="https://strasweb.fr/">StrasWeb</a> et <a href="http://www.tc-alsace.eu/">TC Alsace</a> en utilisant du code d'<a href="https://github.com/dracos/underground-live-map">underground-live-map</a>.
+</p>
+
+<p id="footer">
+&copy; StrasWeb<br/>
+<a href="https://github.com/StrasWeb/strasbourg-tram-map">Code source</a>
+</p>
+
+  </div>
+  <script type="text/javascript"> load(); </script>
+ </body>
+</html>

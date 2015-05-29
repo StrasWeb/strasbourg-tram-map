@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Ligne B du tramway de Strasbourg]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[Liste des stations]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Hoenheim Gare]]></name>
+			<Point>
+				<coordinates>7.75861111111111,48.6281111111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Général de Gaulle]]></name>
+			<Point>
+				<coordinates>7.76394444444444,48.6216388888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Le Ried]]></name>
+			<Point>
+				<coordinates>7.76777777777778,48.6213888888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lycée Marc Bloch]]></name>
+			<Point>
+				<coordinates>7.76794444444444,48.6165555555556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pont Phario]]></name>
+			<Point>
+				<coordinates>7.76716666666667,48.613,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Le Marais]]></name>
+			<Point>
+				<coordinates>7.76572222222222,48.6099166666667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Futura Glacière]]></name>
+			<Point>
+				<coordinates>7.75938888888889,48.6050555555556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rives de l'Aar]]></name>
+			<Point>
+				<coordinates>7.75461111111111,48.60075,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wacken]]></name>
+			<Point>
+				<coordinates>7.76066666666667,48.5986111111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lycée Kléber]]></name>
+			<Point>
+				<coordinates>7.75777777777778,48.5941666666667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Parc du Contades]]></name>
+			<Point>
+				<coordinates>7.75597222222222,48.5902777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[République]]></name>
+			<Point>
+				<coordinates>7.75402777777778,48.5863333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Place Broglie]]></name>
+			<Point>
+				<coordinates>7.74930555555556,48.58475,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Homme de Fer]]></name>
+			<Point>
+				<coordinates>7.74472222222222,48.5842777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Alt Winmärik (Vieux Marché aux Vins)]]></name>
+			<Point>
+				<coordinates>7.74025,48.5834166666667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Faubourg National]]></name>
+			<Point>
+				<coordinates>7.73661111111111,48.5824166666667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Musée d'Art Moderne]]></name>
+			<Point>
+				<coordinates>7.734,48.5778888888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Laiterie]]></name>
+			<Point>
+				<coordinates>7.7315,48.5759444444444,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Montagne Verte]]></name>
+			<Point>
+				<coordinates>7.72738888888889,48.5746111111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Elsau]]></name>
+			<Point>
+				<coordinates>7.72627777777778,48.5678333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Martin Schongauer]]></name>
+			<Point>
+				<coordinates>7.72011111111111,48.5661111111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Elmerforst]]></name>
+			<Point>
+				<coordinates>7.71161111111111,48.5630833333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wihrel]]></name>
+			<Point>
+				<coordinates>7.71277777777778,48.55475,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ostwald Hôtel de Ville]]></name>
+			<Point>
+				<coordinates>7.71011111111111,48.5510277777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Borie]]></name>
+			<Point>
+				<coordinates>7.70238888888889,48.5495555555556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lingolsheim Alouettes]]></name>
+			<Point>
+				<coordinates>7.69244444444444,48.5513333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lingolsheim Tiergaertel]]></name>
+			<Point>
+				<coordinates>7.68977777777778,48.5538333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_B_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne B du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

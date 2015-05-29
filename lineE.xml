@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Ligne E du tramway de Strasbourg]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[Liste des stations]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Robertsau Boecklin]]></name>
+			<Point>
+				<coordinates>7.78211111111111,48.60375,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Droits de l'Homme]]></name>
+			<Point>
+				<coordinates>7.77583333333333,48.5965,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Parlement Européen]]></name>
+			<Point>
+				<coordinates>7.76816666666667,48.5991388888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wacken]]></name>
+			<Point>
+				<coordinates>7.76066666666667,48.5986111111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lycée Kléber]]></name>
+			<Point>
+				<coordinates>7.75777777777778,48.5941666666667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Parc du Contades]]></name>
+			<Point>
+				<coordinates>7.75597222222222,48.5902777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[République]]></name>
+			<Point>
+				<coordinates>7.75402777777778,48.5863333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gallia]]></name>
+			<Point>
+				<coordinates>7.75836111111111,48.5843888888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Université]]></name>
+			<Point>
+				<coordinates>7.76391666666667,48.5827777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Observatoire]]></name>
+			<Point>
+				<coordinates>7.76902777777778,48.5813888888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Esplanade]]></name>
+			<Point>
+				<coordinates>7.76944444444444,48.5783333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Winston Churchill]]></name>
+			<Point>
+				<coordinates>7.76675,48.5737777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Landsberg]]></name>
+			<Point>
+				<coordinates>7.76352777777778,48.5695277777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Étoile Polygone]]></name>
+			<Point>
+				<coordinates>7.75561111111111,48.5715555555556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Schluthfeld]]></name>
+			<Point>
+				<coordinates>7.75169444444444,48.5685833333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Krimmeri Stade de la Meinau]]></name>
+			<Point>
+				<coordinates>7.75263888888889,48.5631388888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lycée Couffignal]]></name>
+			<Point>
+				<coordinates>7.74919444444444,48.5588333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Émile Mathis]]></name>
+			<Point>
+				<coordinates>7.74433333333333,48.5532777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hohwart]]></name>
+			<Point>
+				<coordinates>7.74163888888889,48.5493333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Baggersee]]></name>
+			<Point>
+				<coordinates>7.73791666666667,48.5449722222222,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_E_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_4-0">Ligne E du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Ligne D du tramway de Strasbourg]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[Liste des stations]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Rotonde]]></name>
+			<Point>
+				<coordinates>7.72497222222222,48.5918888888889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gare Centrale]]></name>
+			<Point>
+				<coordinates>7.73525,48.5848611111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ancienne Synagogue Les Halles]]></name>
+			<Point>
+				<coordinates>7.74233333333333,48.5853333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Homme de Fer]]></name>
+			<Point>
+				<coordinates>7.74472222222222,48.5842777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Langstross Grand'Rue]]></name>
+			<Point>
+				<coordinates>7.74630555555556,48.5815,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Porte de l'Hôpital]]></name>
+			<Point>
+				<coordinates>7.75011111111111,48.5781111111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Étoile Bourse]]></name>
+			<Point>
+				<coordinates>7.75347222222222,48.5748611111111,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Étoile Polygone]]></name>
+			<Point>
+				<coordinates>7.75561111111111,48.5715555555556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Landsberg]]></name>
+			<Point>
+				<coordinates>7.76352777777778,48.5695277777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Jean Jaurès]]></name>
+			<Point>
+				<coordinates>7.77208333333333,48.56725,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Aristide Briand]]></name>
+			<Point>
+				<coordinates>7.77677777777778,48.5685833333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://fr.wikipedia.org/wiki/Ligne_D_du_tramway_de_Strasbourg#cite_ref-TableauCorrespondances_5-0">Ligne D du tramway de Strasbourg</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
